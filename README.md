@@ -1,4 +1,4 @@
-<img width="1865" height="903" alt="screenshot png" src="https://github.com/user-attachments/assets/5f5f44b7-aa0f-4f31-afd8-406becfaaeda" /># 🎧 Spotify UI Clone
+# 🎧 Spotify UI Clone
 
 A Spotify-inspired web UI built using **HTML and CSS**.  
 This project focuses on recreating the look and feel of Spotify’s web player to practice frontend layout, styling, and UI structuring.
@@ -58,7 +58,5 @@ This project focuses on recreating the look and feel of Spotify’s web player t
 ---
 
 ## 📂 How to Run Locally
-
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/your-username/spotify-ui-clone.git
+https://github.com/nitinrawat1827/spotify-inspired-ui
+   
